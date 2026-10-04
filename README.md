@@ -10,8 +10,9 @@ với cuộc sống con người mọi lúc mọi nơi.
 <p align="center">
   <img src="img.png" width="600">
 </p>
+
 ---
-TÌM HIỂU MÔ HÌNH GIÁO DỤC CỦA HAA(HOROWITZ ANDREESSEN ACADEMY) VÀ CÁC XU THẾ LẬP TRÌNH HIỆN NAY
+# TÌM HIỂU MÔ HÌNH GIÁO DỤC CỦA HAA(HOROWITZ ANDREESSEN ACADEMY) VÀ CÁC XU THẾ LẬP TRÌNH HIỆN NAY
 ## 1.Tìm hiểu mô hình giáo dục của HAA là gì, ưu điểm và nhực điểm của mô hình này.
 HAA là mô hình giáo dục hướng đến “learning by doing”, trong đó người học phát triển năng lực thông qua dự án cá nhân, các khóa học 
 thực tiễn và trải nghiệm làm việc tại doanh nghiệp. Mô hình có ưu điểm là tăng tính thực hành, khả năng tự học, tiếp cận AI và kết nối với 
