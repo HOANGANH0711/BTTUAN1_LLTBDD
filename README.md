@@ -7,7 +7,6 @@ và có thể tự tin tìm được một công viêc trong doanh nghiệp.
 Trong tương lai gần thì lập trình di động vấn sẽ phát triển vì hiện nay các thiết bị vẫn đang phát triển và thiết bị di động gắn liền
 với cuộc sống con người mọi lúc mọi nơi.
 ## 3.Viết một ứng dụng có UI:
-![Ảnh mô tả ứng dụng](img.png)
 <p align="center">
   <img src="img.png" width="600">
 </p>
