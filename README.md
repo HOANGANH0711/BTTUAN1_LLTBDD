@@ -1,9 +1,4 @@
 # BTTUAN1 - Lập trình di động
-## Hình ảnh minh họa
-<p align="center">
-  <img src="img.png" width="600">
-</p>
-
 ---
 ## 1.Mong muốn và định hướng của Bạn trong là gì sau kho học xong môn học là gì?
 Sau khi học xong môn này có thể tự tin tạo ra sản phẩm được sử dụng trên thiết bị di động có khả năng mang lại doanh thu
@@ -13,6 +8,9 @@ Trong tương lai gần thì lập trình di động vấn sẽ phát triển v�
 với cuộc sống con người mọi lúc mọi nơi.
 ## 3.Viết một ứng dụng có UI:
 ![Ảnh mô tả ứng dụng](img.png)
+<p align="center">
+  <img src="img.png" width="600">
+</p>
 ---
 TÌM HIỂU MÔ HÌNH GIÁO DỤC CỦA HAA(HOROWITZ ANDREESSEN ACADEMY) VÀ CÁC XU THẾ LẬP TRÌNH HIỆN NAY
 ## 1.Tìm hiểu mô hình giáo dục của HAA là gì, ưu điểm và nhực điểm của mô hình này.
